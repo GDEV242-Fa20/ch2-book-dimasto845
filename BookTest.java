@@ -26,6 +26,7 @@ public class BookTest
     private Book book1;
     private Book book2;
     private Book book3;
+    private int borrow;
 
 
     /**
